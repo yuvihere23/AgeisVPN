@@ -8,7 +8,12 @@ To connect to the VPN server, follow these steps:
 
 ### Prerequisites
 
-- Install the OpenVPN Connect app on your android device:
+- Install the OpenVPN Connect app on your android device
+   - [OpenVPN Connect for Android](https://play.google.com/store/apps/details?id=net.openvpn.openvpn&hl=en_IN&pli=1)
+   
+- Install the OpenVPN Connect Client on your device:
+   - [OpenVPN Connect for Android](https://openvpn.net/client/)
+         
 
 ### Steps to Connect [2 Methods]
 ## Method 1
